@@ -1,0 +1,23 @@
+body{
+background: url("background.gif");
+background-size: cover;
+font-family: helvetica;
+color: white;
+}
+
+container{
+}
+nav{
+padding: none;
+text-align: center;
+font-family: helvetica:
+}
+nav li{
+display: inline;
+text-align: center;
+list-style: none;
+margin-right: 50px;
+padding-right:50px;
+font-size: 25px;
+border-right: solid;
+font-weight: bold;
