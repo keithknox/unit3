@@ -1,8 +1,7 @@
 
 #container{
-size: 960px;
-position:relative;
-overflow-x: scroll;
+size: 800px;
+
 
 }
 
@@ -32,13 +31,14 @@ nav li:last-child {
 border-right: none;
 }
 #side{
-
+position: relative;
 width: 100px;
 float:left;
 list-style:none;
-height: 600px;
+height: 750px;
 padding: 30px;
 font: 30px;
+background-color: red;
 }
 #side li{
 font-size: 20px;
@@ -50,6 +50,7 @@ align: center;
 font-family: helvetica;
 font-size: 50px;
 margin:0;
+position: relative;
 
 }
 #results li{
