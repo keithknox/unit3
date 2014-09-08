@@ -1,0 +1,38 @@
+body {
+	background-image: url("background.jpg");
+<<<<<<< HEAD
+	background-size: cover;
+=======
+>>>>>>> master
+	font-family: sans-serif;
+	color: white;
+	font-size: 20px;
+	font-weight: 100;
+<<<<<<< HEAD
+	margin: 0px;
+	}
+#header{
+background-image: url("stripes.png");
+background-repeat: repeat;
+}
+
+#text {
+position: relative;
+margin-top: 300px;
+margin-left: 100px;
+}
+hr {
+width:50px;
+}
+=======
+	}
+h1	{
+	background-repeat: repeat-x;
+}
+
+hr {
+	width: 50px;
+	
+	}
+a	{	}
+>>>>>>> master
