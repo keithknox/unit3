@@ -3,21 +3,40 @@ background: url("background.gif");
 background-size: cover;
 font-family: helvetica;
 color: white;
+font-size: 20px;
+width: 960px;
+margin: auto;
+position: relative;
+
 }
 
-container{
+img{
+float:right;
+width: 25%;
 }
-nav{
-padding: none;
-text-align: center;
-font-family: helvetica:
+
+h1{
+font-size: 60px;
 }
-nav li{
+
+p{
+float: left;
+width: 75%;
+margin-top: 400px;
+}
+
+footer{
+clear:both;
+}
+
+footer li{
 display: inline;
 text-align: center;
 list-style: none;
 margin-right: 50px;
 padding-right:50px;
-font-size: 25px;
-border-right: solid;
+font-size: 15px;
 font-weight: bold;
+}
+
+
