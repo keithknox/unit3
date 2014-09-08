@@ -1,7 +1,7 @@
 body{
 background: url("background.gif");
 background-size: cover;
-font-family: helvetica;
+font-family: rockwell;
 color: white;
 font-size: 20px;
 width: 960px;
@@ -13,6 +13,11 @@ position: relative;
 img{
 float:right;
 width: 25%;
+}
+
+a{
+color: white;
+text-decoration: none;
 }
 
 h1{
