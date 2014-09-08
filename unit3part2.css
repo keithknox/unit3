@@ -2,6 +2,7 @@
 #container{
 size: 960px;
 position:relative;
+overflow-x: scroll;
 
 }
 
