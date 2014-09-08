@@ -1,9 +1,6 @@
-
 #container{
 size: 960px;
 margin: auto;
-
-
 }
 
 h1{
@@ -12,7 +9,6 @@ font-family: helvetica;
 font-size: 75px;
 padding: none;
 }
-
 nav{
 padding: none;
 text-align: center;
@@ -32,27 +28,23 @@ nav li:last-child {
 border-right: none;
 }
 #side{
-position: relative;
 width: 100px;
+height: 1200px;
 float:left;
 list-style:none;
-height: 750px;
 padding: 30px;
 font: 30px;
-background-color: red;
 }
 #side li{
 font-size: 20px;
 }
-
 #results{
-
+position: static;
 align: center;
 font-family: helvetica;
 font-size: 50px;
 margin:0;
 position: relative;
-
 }
 #results li{
 display: inline;
